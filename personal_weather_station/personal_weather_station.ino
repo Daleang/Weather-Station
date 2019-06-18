@@ -19,6 +19,9 @@
 #include "DHT.h"
 
 
+// Use this library
+// https://www.arduinolibraries.info/libraries/dht-sensor-library-for-es-px 
+
 
 // This is where the literal declerations are made
 #define timezone              10       // Time zone including day light savings

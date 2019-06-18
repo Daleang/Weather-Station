@@ -29,6 +29,10 @@ Follow the on-screen instructions, as the bear minimum you will need to enter a 
 
 Once you have this information, write it down and you're ready to start constructing and coding your project.
 
+## Software Library
+
+Please use https://www.arduinolibraries.info/libraries/dht-sensor-library-for-es-px  which can be downloaded via the Download Manager
+
 ## Circuit & Assembly
 
 This project is relatively easy to build, as per the wiring diagram below.
